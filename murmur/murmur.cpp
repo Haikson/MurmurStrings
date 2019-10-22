@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// Murmur Hash Library, by Bryan McLemore and Chris Heald
+// Murmur Hash Library for strings, by Kamo Petrosyan
 // Original Portions (c) 2008 Bryan McLemore and Chris Heald
 // Released under The MIT License
 // http://www.opensource.org/licenses/mit-license.php
